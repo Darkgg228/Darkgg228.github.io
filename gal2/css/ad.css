@@ -1,0 +1,31 @@
+@media all and (max-width: 1024px){
+	.img-box {
+		column-count: 3;
+		width: 90%;
+ 	}
+}
+@media all and (max-width: 768px){
+	.img-box
+		width: 100%;
+		column-count: 2;
+	}
+}
+@media all and (max-width: 480px){
+	.img-box{
+		column-count: 1;
+	}
+}
+@media all and (max-width: 1200px){
+	.image-wrapper: hover {
+		opacity: 1;
+		filter: hue-rotate(45deg);
+	}
+}
+@media all and (max-width: 1200px){
+	.img-wrapper: hover {
+		opacity: 1;
+		filter: hue-rotate(45deg);
+	}
+	.autohor: hover{
+		border-color: #111;
+	}

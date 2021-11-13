@@ -1,0 +1,48 @@
+body{}
+font-size: 24pt;
+backgraund-color: gold;
+color: dodgerblue;
+p{
+color: #4B0082;
+font-size: 30pt;
+}
+span{
+background-color: green;
+}
+@font-face{
+	font-family: 'Steamy';
+	src:url('fonts/Steamy.oft');
+	font-weight: normal;
+	font-style: normal;
+	color:green; 
+	font-size: 20pt;
+	font-family: 'Caveat', cursive;
+} 
+h3{
+	color: hotpink;
+div{
+	font-size: 36pt;
+	font-family: 'Russo One', sans-serif;
+}s
+	widht: 70%;
+	margin: auto;
+	background-color: gold;
+	padding: 50px;
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0,0 2);
+}
+a{
+	text-decoration: none;
+	color:tomato;
+	display: inline-block;
+	margin: 20px 0;
+	border-bottom: 20px solid transparent;
+	transition:1s ease-in;
+
+}
+a:hover{
+	border-bottom-color: #204051;
+}
+img}
+	max-wight: 100%;
+	display: block;
+}

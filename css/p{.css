@@ -1,0 +1,36 @@
+p{
+color: #4B0082;
+font-size: 30pt;
+}
+span{
+background-color: green;
+}
+@font-face{
+	font-family: 'Steamy';
+	src:url('fonts/Steamy.oft');
+	font-weight: normal;
+	font-style: normal;
+	color:green; 
+	font-size: 20pt;
+	font-family: 'Caveat', cursive;
+} 
+h3{
+	color: hotpink;
+div{
+	font-size: 36pt;
+	font-family: 'Russo One', sans-serif;
+}s
+	widht: 70%;
+	margin: auto;
+	background-color: gold;
+	padding: 50px;
+}
+a{
+	text-decoration: none;
+	color:tomato;
+	font-size 24px;
+}
+img}
+	max-wight: 100%;
+	display: block;
+}
